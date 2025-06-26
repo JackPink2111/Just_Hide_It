@@ -16,5 +16,5 @@ This is a simple Python GUI application that allows users to **change the extens
 💻 How to Run
 
 1. Make sure Python 3 is installed.
-2. Install Tkinter (usually included with Python).
+2. Install (**pip install cryptography twilio pillow pysteg**).
 3. Run the script:
